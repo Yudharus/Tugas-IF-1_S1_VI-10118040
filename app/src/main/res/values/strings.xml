@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">MochYudhaRusdian</string>
+    <string name="nama">Nama : Moch Yudha Rusdian</string>
+    <string name="nim">NIM : 10118040</string>
+    <string name="kelas">Kelas : IF-1</string>
+    <string name="kelamin">Kelamin : Laki - Laki</string>
+    <string name="ttl">TTL : Lampung, 22 Juni 2000</string>
+    <string name="alamat">Alamat : GBA 2 Blok E1 No. 25</string>
+    <string name="goldarah">Gol Darah : O</string>
+    <string name="makanan">Makanan Kesukaan : Mie</string>
+    <string name="minuman">Minuman Kesukaan : Es kopi</string>
+    <string name="hobi">Hobi : Bermain Game</string>
+    <string name="lagu">Lagu Favorit: Sorai - Nadin Amizah</string>
+    <string name="film">Film Favorit : Family Guy</string>
+    <string name="pekerjaan">Pekerjaan yang diinginkan : UI/UX Designer</string>
+</resources>
